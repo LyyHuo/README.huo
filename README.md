@@ -1,4 +1,4 @@
-# README.huo
+# it's me
 <h1 align="center">Hi 👋, I'm Ly Huo</h1>
 <h3 align="center">Passionate about coding, problem-solving, and building cool projects.</h3>
 
