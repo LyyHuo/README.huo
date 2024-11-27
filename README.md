@@ -26,10 +26,7 @@
 ### Programming Languages
 
 <!-- C Badge -->
-![C](https://img.shields.io/badge/-C-000?&logo=c&logoColor=white)
-
-<!-- C++ Badge -->
-![C++](https://img.shields.io/badge/-C%2B%2B-000?&logo=c%2B%2B&logoColor=00599C)
+![C](https://img.shields.io/badge/-C-000?&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-000?&logo=c%2B%2B&logoColor=00599C)
 
 <!-- C# Badge -->
 ![C#](https://img.shields.io/badge/-CSharp-000?&logo=CSharp&logoColor=white)
