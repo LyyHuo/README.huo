@@ -7,7 +7,7 @@
 - 📫 How to reach me **lyhuo.it@gmail.com**
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F70A83&width=435&lines=Computer+Science+Student+and+Game+Addict" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F70A83&width=435&lines=Management Infomation System student" alt="Typing SVG" />
     </a>
 </p>
 <h3 align="left">Connect with me:</h3>
